@@ -1,6 +1,6 @@
 # SkyGrove
 
-This project aims to detect trees from aerial images of 2 cities in India (Thiruvalla , a city in Kerala and Haldwani, another city in Uttarakhand state) using the state-of-the-art object detection algorithm YOLO (You Only Look Once). The YOLO algorithm is a real-time object detection system that can identify and locate objects within an image in a single pass.
+This project aims to detect trees from aerial images of 2 cities in Scotland (Glasgow and Edinburgh), United Kingdom using the state-of-the-art object detection algorithm YOLO (You Only Look Once). The YOLO algorithm is a real-time object detection system that can identify and locate objects within an image in a single pass.
 
 The dataset of aerial images of the 2 cities will be collected using Google earth and will use YOLO for object detection to identify trees in the images. We will also perform data augmentation techniques such as flipping, rotation, and denoising to increase the size of our dataset and make the model more robust.
 
