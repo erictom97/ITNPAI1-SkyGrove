@@ -9,5 +9,5 @@ Once the model is trained, we will use it to detect trees in new images / unseen
 SkyGrove will be a valuable tool for urban planning, modelling urban growth patterns and forestry management in the two cities. The project will provide insights into the distribution and density of trees in the cities, helping policymakers to make informed decisions on urban development and green space allocation. It can also be helpful to understand human impact on climate change.
 
 
-https://user-images.githubusercontent.com/40288848/227747864-cdfaf9ee-0b10-44b2-a90b-e5966a3bd9f4.mp4
 
+  ![ezgif com-optimize](https://user-images.githubusercontent.com/40288848/227748171-1a8c2be9-0ea1-4a12-b3de-6323be75637a.gif)
