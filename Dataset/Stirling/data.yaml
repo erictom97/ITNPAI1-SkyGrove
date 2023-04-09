@@ -1,0 +1,5 @@
+train: /content/ITNPAI1-SkyGrove/Dataset/Stirling/images and labels/train
+val: /content/ITNPAI1-SkyGrove/Dataset/Stirling/images and labels/validation
+
+nc: 1
+names: ['Tree']
